@@ -1,0 +1,11 @@
+{
+  "componentFolder": "src",
+  "fixturesFolder": "cypress/fixtures",
+  "pluginsFile": "cypress/plugins/index.js",
+  "screenshotsFolder": "cypress/screenshots",
+  "videosFolder": "cypress/videos",
+  "downloadsFolder": "cypress/downloads",
+  "supportFile": "cypress/support/index.js",
+  "testFiles": "**/*_spec.{js,jsx}",
+  "integrationFolder": "e2e"
+}
